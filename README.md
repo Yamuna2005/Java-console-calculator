@@ -1,4 +1,4 @@
-# Java-cansole-calculator
+# Java-console-calculator
 
 
 A simple Java console-based calculator that supports basic arithmetic operations.
