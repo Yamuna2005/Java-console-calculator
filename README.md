@@ -20,6 +20,8 @@ Java logic building
 
 How to Run:
 
+open in eclipse and run the program.
+
 Clone the repository Navigate to the project directory Compile the Java code: javac Calculator.java Run the program: java Calculator Usage:
 
 Choose an operation (1-5) Enter the first and second numbers The program will display the result Code:
